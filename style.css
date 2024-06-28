@@ -486,7 +486,7 @@ body.active { overflow: hidden; }
 \*-----------------------------------*/
 
 .hero {
-  background: url("./assets/images/hero-bg.jpg") no-repeat;
+  background: url("./images/hero-bg.jpg") no-repeat;
   background-size: cover;
   background-position: center;
   min-height: 750px;
@@ -520,7 +520,7 @@ body.active { overflow: hidden; }
 \*-----------------------------------*/
 
 .upcoming {
-  background: url("./assets/images/upcoming-bg.png") no-repeat;
+  background: url("./images/upcoming-bg.png") no-repeat;
   background-size: cover;
   background-position: center;
   padding-block: var(--section-padding);
@@ -564,7 +564,7 @@ body.active { overflow: hidden; }
 \*-----------------------------------*/
 
 .service {
-  background: url("./assets/images/service-bg.jpg") no-repeat;
+  background: url("./images/service-bg.jpg") no-repeat;
   background-size: cover;
   background-position: center;
   padding-block: var(--section-padding);
@@ -669,7 +669,7 @@ body.active { overflow: hidden; }
 \*-----------------------------------*/
 
 .top-rated {
-  background: url("./assets/images/top-rated-bg.jpg") no-repeat;
+  background: url("./images/top-rated-bg.jpg") no-repeat;
   background-size: cover;
   background-position: center;
   padding-block: var(--section-padding);
@@ -723,7 +723,7 @@ body.active { overflow: hidden; }
 \*-----------------------------------*/
 
 .tv-series {
-  background: url("./assets/images/tv-series-bg.jpg") no-repeat;
+  background: url("./images/tv-series-bg.jpg") no-repeat;
   background-size: cover;
   background-position: center;
   padding-block: var(--section-padding);
@@ -740,7 +740,7 @@ body.active { overflow: hidden; }
 \*-----------------------------------*/
 
 .cta {
-  background: url("./assets/images/cta-bg.jpg") no-repeat;
+  background: url("./images/cta-bg.jpg") no-repeat;
   background-size: cover;
   background-position: center;
   text-align: center;
@@ -801,7 +801,7 @@ body.active { overflow: hidden; }
 \*-----------------------------------*/
 
 .footer-top {
-  background: url("./assets/images/footer-bg.jpg") no-repeat;
+  background: url("./images/footer-bg.jpg") no-repeat;
   background-size: cover;
   background-position: center;
   padding-block: 80px 50px;
@@ -929,7 +929,7 @@ body.active { overflow: hidden; }
 \*-----------------------------------*/
 
 .movie-detail {
-  background: url("./assets/images/movie-detail-bg.png") no-repeat;
+  background: url("./images/movie-detail-bg.png") no-repeat;
   background-size: cover;
   background-position: center;
   padding-top: 160px;
